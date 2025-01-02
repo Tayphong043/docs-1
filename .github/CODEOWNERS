@@ -1,9 +1,0 @@
-# Default owners of the repository
-*       @setupmd
-
-# Owners for JS, JSX, TS, and TSX files
-*.js    @setupmd
-*.jsx   @setupmd
-*.mdx   @setupmd
-*.ts    @setupmd
-*.tsx   @setupmd
